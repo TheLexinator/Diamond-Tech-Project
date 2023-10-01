@@ -1,0 +1,57 @@
+/* Typography */
+h1,
+h2,
+h3 {
+  font-family: "Black Ops One", sans-serif;
+}
+
+p {
+  font-family: "Victor Mono", monospace;
+}
+
+
+/* Logo */
+#logo {
+  border-radius: 50%;
+  padding: 1em;
+  width: 7em;
+  height: auto;
+}
+
+
+/* Section Styles */
+.contact-us {
+  background-color: #f8f9fa;
+}
+
+
+/* Component Styles */
+.company_name {
+  font-family: "Black Ops One", sans-serif;
+  font-size: 3em;
+}
+
+/* Button Styles */
+button:hover {
+  color: white;
+  background-color: white;
+}
+
+/* Image Styles */
+#laptop,
+#printer,
+#phones {
+  border-radius: 20px;
+}
+
+/* Miscellaneous Styles */
+#creator {
+  background-color: lightgrey;
+  font-family: monospace;
+  text-align: center;
+}
+
+footer {
+  background-color: lightgrey;
+  font-family: monospace;
+}
